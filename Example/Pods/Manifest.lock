@@ -1,0 +1,16 @@
+PODS:
+  - MakingWork (0.1.0)
+
+DEPENDENCIES:
+  - MakingWork (from `../`)
+
+EXTERNAL SOURCES:
+  MakingWork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MakingWork: f9df242546a6c246541c9732608e1564d8fccda0
+
+PODFILE CHECKSUM: e37758d8f54683c14a86268dc80878cc17480485
+
+COCOAPODS: 1.11.3

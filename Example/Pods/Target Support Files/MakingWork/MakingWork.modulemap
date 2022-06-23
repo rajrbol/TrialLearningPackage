@@ -1,0 +1,6 @@
+framework module MakingWork {
+  umbrella header "MakingWork-umbrella.h"
+
+  export *
+  module * { export * }
+}
