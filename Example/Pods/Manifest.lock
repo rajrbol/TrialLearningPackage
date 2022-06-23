@@ -1,5 +1,5 @@
 PODS:
-  - MakingWork (0.1.0)
+  - MakingWork (0.0.1)
 
 DEPENDENCIES:
   - MakingWork (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MakingWork: f9df242546a6c246541c9732608e1564d8fccda0
+  MakingWork: 81e39e694a4393c7fda115223dbc2bf9eee57ddd
 
 PODFILE CHECKSUM: e37758d8f54683c14a86268dc80878cc17480485
 

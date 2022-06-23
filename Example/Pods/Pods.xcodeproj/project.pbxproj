@@ -7,70 +7,70 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		265A16D7B6C2EDD7EBE475BB4E44C8DD /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFCCA7D7C56CF9F0CF5DFF959CCCFBC1 /* UIView+Extension.swift */; };
 		3B9B7110354CDF3A26629E31E97B3664 /* Pods-MakingWork_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0E76B8E15D384E1CFC4E9581E26F1774 /* Pods-MakingWork_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		43C22F5DAAED2331DB013464E3C58586 /* Pods-MakingWork_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A0236B49425340E6E27D868E1970708 /* Pods-MakingWork_Example-dummy.m */; };
-		5AD5D4F9AF7E45F86314CEBCEC3621CF /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF3ECA321156E3FAFC7D6BD95B23207 /* ReplaceMe.swift */; };
-		6200D653B44321158D783429358D939F /* MakingWork-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 413F9828FE936C0C9CB113CE66B31302 /* MakingWork-dummy.m */; };
-		7D65A318BB9559852E2297CF3EEDC7C5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		497DE54018B5A7A96D0EE075DE65F93C /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7C566B24371CB0DEC20574388A81276 /* ReplaceMe.swift */; };
+		63751CDE78A107A57C259CFAC77C31E5 /* MakingWork-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E87B20015B296254E77570600F815AE3 /* MakingWork-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7147E878A8F620E5EB48E365C0FB1AA2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		90A81FA46E46D52D7EC354D907A30CFA /* MakingWork-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3545EF95A5BA6A3DFBD321954DEBAEB4 /* MakingWork-dummy.m */; };
 		9561343D490061B5BA737D8507B604DD /* Pods-MakingWork_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A0899CE4FA36FB2B5F05611429F7F19D /* Pods-MakingWork_Tests-dummy.m */; };
-		CF632E982864768C0067E62F /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF632E972864768C0067E62F /* UIView+Extension.swift */; };
 		D5B7D87CA38A861563E6CE10FD80D337 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		DA195212B078C855EEB7F2BD3BEE42AE /* Pods-MakingWork_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0F1F1BAC578C6D54C2790C6C59C9CEDA /* Pods-MakingWork_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DE0C70BA2B95718C83288A67B2C0A4C8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		F36D9DB02C5FB66608953C3BFC5052A7 /* MakingWork-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 76E3B3BEEE86808EB76B7B5BF900F9F3 /* MakingWork-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		6663F3A1D4913523DE329A00FCC5A579 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 492916BE9F3967359C4F179605C421FC;
-			remoteInfo = MakingWork;
-		};
-		E9FDD6D76CC90323BBD9E5949C55A2AC /* PBXContainerItemProxy */ = {
+		2E91F174893F723A90CC44A4B212607D /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 66FB54B68E960DD5B5A32D836BAC883B;
 			remoteInfo = "Pods-MakingWork_Example";
 		};
+		DA4238703E32C2CEFE8B9AE74F609814 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 492916BE9F3967359C4F179605C421FC;
+			remoteInfo = MakingWork;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0228865B3F586AD9264EE8EC19F97DB3 /* MakingWork.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = MakingWork.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		02463C4DE8DA4F18D8F530DE732F0655 /* Pods-MakingWork_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MakingWork_Example.release.xcconfig"; sourceTree = "<group>"; };
 		0E76B8E15D384E1CFC4E9581E26F1774 /* Pods-MakingWork_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MakingWork_Tests-umbrella.h"; sourceTree = "<group>"; };
 		0F1F1BAC578C6D54C2790C6C59C9CEDA /* Pods-MakingWork_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MakingWork_Example-umbrella.h"; sourceTree = "<group>"; };
-		2CF3ECA321156E3FAFC7D6BD95B23207 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = MakingWork/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
-		3F58E150E30C3052A8BC5E24C2E3A937 /* MakingWork.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MakingWork.release.xcconfig; sourceTree = "<group>"; };
-		407531D15CA7E59085A6BD1EF739882C /* MakingWork-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MakingWork-Info.plist"; sourceTree = "<group>"; };
-		413F9828FE936C0C9CB113CE66B31302 /* MakingWork-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MakingWork-dummy.m"; sourceTree = "<group>"; };
+		20DED90C14818BD0DB30D59585330F7D /* MakingWork.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MakingWork.modulemap; sourceTree = "<group>"; };
+		25000E2B629D6FB8F335EE379F2A8D84 /* MakingWork.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = MakingWork.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		3545EF95A5BA6A3DFBD321954DEBAEB4 /* MakingWork-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MakingWork-dummy.m"; sourceTree = "<group>"; };
 		4201FA8683A4902C3727D4B1414CEBBB /* Pods-MakingWork_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MakingWork_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		4A0236B49425340E6E27D868E1970708 /* Pods-MakingWork_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MakingWork_Example-dummy.m"; sourceTree = "<group>"; };
 		4C6DD396E3DD2282DE3A7BB9B7ECE7C5 /* Pods-MakingWork_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-MakingWork_Example"; path = Pods_MakingWork_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		51712D6A8978B6C51E39D6038CB606CF /* MakingWork-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MakingWork-prefix.pch"; sourceTree = "<group>"; };
 		53A7DED85B40844623568B453F338DF2 /* Pods-MakingWork_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MakingWork_Example.modulemap"; sourceTree = "<group>"; };
-		5ADCABF88D00A369649AB0C5138B5F1D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		627195F77848599C96A9CD190BDC44FF /* MakingWork.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MakingWork.modulemap; sourceTree = "<group>"; };
 		6BFFEEF2CD2C17C209501D35AE7B7C89 /* Pods-MakingWork_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MakingWork_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		70D7C09B5D1641F475B8227859D0BA42 /* Pods-MakingWork_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MakingWork_Example-Info.plist"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		76E3B3BEEE86808EB76B7B5BF900F9F3 /* MakingWork-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MakingWork-umbrella.h"; sourceTree = "<group>"; };
 		78CE4D0BB0C881EA1B4441987B3CE11E /* Pods-MakingWork_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MakingWork_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		7ADAC2B0BB58AF1AE90BC2BA283B3F6A /* Pods-MakingWork_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MakingWork_Tests-Info.plist"; sourceTree = "<group>"; };
-		81148602CC5A19F7A9B890456B474275 /* MakingWork.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MakingWork.debug.xcconfig; sourceTree = "<group>"; };
+		8D6039FFD95C930A92E667CD590C2343 /* MakingWork-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MakingWork-Info.plist"; sourceTree = "<group>"; };
 		8EF136928819907510CDF5D8B966ABCA /* Pods-MakingWork_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MakingWork_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9587FC26DE3CEB32EFCD4346A6AEA51C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		988D45D25EE919EE43AF6C63B6294CF6 /* MakingWork.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MakingWork.debug.xcconfig; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A0899CE4FA36FB2B5F05611429F7F19D /* Pods-MakingWork_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MakingWork_Tests-dummy.m"; sourceTree = "<group>"; };
 		A21CF3B47D3A820F173FBF469F35F429 /* Pods-MakingWork_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MakingWork_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		B06665AFE58D7446C770AB5B2ACF63FA /* MakingWork */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MakingWork; path = MakingWork.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		B14DB75AF6B22AF3673A52712177CE74 /* MakingWork-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MakingWork-prefix.pch"; sourceTree = "<group>"; };
 		B32592CA9BB38BB09528AEEF922863B0 /* Pods-MakingWork_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MakingWork_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		BF4F6464252BD0DCDFCEF5FE9C75D4F2 /* Pods-MakingWork_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MakingWork_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		BFBBF73CE5175909F2969F7846AC0E9C /* Pods-MakingWork_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MakingWork_Tests.modulemap"; sourceTree = "<group>"; };
 		C04F5C9272C45D54E5496F4EDEAD52E4 /* Pods-MakingWork_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MakingWork_Example-frameworks.sh"; sourceTree = "<group>"; };
-		CF632E972864768C0067E62F /* UIView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
-		EE6DFD70D99A73D76B83B6D7CF099415 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		CFCCA7D7C56CF9F0CF5DFF959CCCFBC1 /* UIView+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIView+Extension.swift"; path = "MakingWork/Classes/UIView+Extension.swift"; sourceTree = "<group>"; };
+		E44D37FC304EC0C703798FD72C341554 /* MakingWork.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MakingWork.release.xcconfig; sourceTree = "<group>"; };
+		E78AE9693CCF009DB484C7C481408D7F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		E7C566B24371CB0DEC20574388A81276 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = MakingWork/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
+		E87B20015B296254E77570600F815AE3 /* MakingWork-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MakingWork-umbrella.h"; sourceTree = "<group>"; };
 		F3E55F1561089479824E7CA2DBFB30F6 /* Pods-MakingWork_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-MakingWork_Tests"; path = Pods_MakingWork_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -83,11 +83,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		78B00BBDD30B7AF66E700F74C90735A1 /* Frameworks */ = {
+		2CF184A0055A9811CB7BFD36BEE530C4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7D65A318BB9559852E2297CF3EEDC7C5 /* Foundation.framework in Frameworks */,
+				7147E878A8F620E5EB48E365C0FB1AA2 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -102,19 +102,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		36735FE37B4727A4185B53A90D0773E0 /* Support Files */ = {
+		371C9EEBDA18CBE96D2FD895A52F00A9 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				627195F77848599C96A9CD190BDC44FF /* MakingWork.modulemap */,
-				413F9828FE936C0C9CB113CE66B31302 /* MakingWork-dummy.m */,
-				407531D15CA7E59085A6BD1EF739882C /* MakingWork-Info.plist */,
-				B14DB75AF6B22AF3673A52712177CE74 /* MakingWork-prefix.pch */,
-				76E3B3BEEE86808EB76B7B5BF900F9F3 /* MakingWork-umbrella.h */,
-				81148602CC5A19F7A9B890456B474275 /* MakingWork.debug.xcconfig */,
-				3F58E150E30C3052A8BC5E24C2E3A937 /* MakingWork.release.xcconfig */,
+				E78AE9693CCF009DB484C7C481408D7F /* LICENSE */,
+				25000E2B629D6FB8F335EE379F2A8D84 /* MakingWork.podspec */,
+				9587FC26DE3CEB32EFCD4346A6AEA51C /* README.md */,
 			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/MakingWork";
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		477122A9F63554501103B052F3D2971F /* Pods-MakingWork_Example */ = {
@@ -142,14 +137,39 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		821C138EC8790F4567B1BA0964C60BF6 /* Pod */ = {
+		6B35328988EF01C9AF30B6625DA3FDEE /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				EE6DFD70D99A73D76B83B6D7CF099415 /* LICENSE */,
-				0228865B3F586AD9264EE8EC19F97DB3 /* MakingWork.podspec */,
-				5ADCABF88D00A369649AB0C5138B5F1D /* README.md */,
+				B3238B427332D4911D74C934FFC1524B /* MakingWork */,
 			);
-			name = Pod;
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		88D516085CA06BCE904EAD24506021F2 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				20DED90C14818BD0DB30D59585330F7D /* MakingWork.modulemap */,
+				3545EF95A5BA6A3DFBD321954DEBAEB4 /* MakingWork-dummy.m */,
+				8D6039FFD95C930A92E667CD590C2343 /* MakingWork-Info.plist */,
+				51712D6A8978B6C51E39D6038CB606CF /* MakingWork-prefix.pch */,
+				E87B20015B296254E77570600F815AE3 /* MakingWork-umbrella.h */,
+				988D45D25EE919EE43AF6C63B6294CF6 /* MakingWork.debug.xcconfig */,
+				E44D37FC304EC0C703798FD72C341554 /* MakingWork.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/MakingWork";
+			sourceTree = "<group>";
+		};
+		B3238B427332D4911D74C934FFC1524B /* MakingWork */ = {
+			isa = PBXGroup;
+			children = (
+				E7C566B24371CB0DEC20574388A81276 /* ReplaceMe.swift */,
+				CFCCA7D7C56CF9F0CF5DFF959CCCFBC1 /* UIView+Extension.swift */,
+				371C9EEBDA18CBE96D2FD895A52F00A9 /* Pod */,
+				88D516085CA06BCE904EAD24506021F2 /* Support Files */,
+			);
+			name = MakingWork;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		C0F2D92D92F43E8F4E7CDA64DE6247BC /* Targets Support Files */ = {
@@ -171,23 +191,11 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		CCC37D85CBA4A891FB40348FFB53770B /* MakingWork */ = {
-			isa = PBXGroup;
-			children = (
-				2CF3ECA321156E3FAFC7D6BD95B23207 /* ReplaceMe.swift */,
-				CF632E972864768C0067E62F /* UIView+Extension.swift */,
-				821C138EC8790F4567B1BA0964C60BF6 /* Pod */,
-				36735FE37B4727A4185B53A90D0773E0 /* Support Files */,
-			);
-			name = MakingWork;
-			path = ../..;
-			sourceTree = "<group>";
-		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				FF2B8B134FABF80F20E2A10653E3859C /* Development Pods */,
+				6B35328988EF01C9AF30B6625DA3FDEE /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				C348B3BE0EDF7B6E13D83B59D04AEAD0 /* Products */,
 				C0F2D92D92F43E8F4E7CDA64DE6247BC /* Targets Support Files */,
@@ -218,25 +226,9 @@
 			path = "Target Support Files/Pods-MakingWork_Tests";
 			sourceTree = "<group>";
 		};
-		FF2B8B134FABF80F20E2A10653E3859C /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				CCC37D85CBA4A891FB40348FFB53770B /* MakingWork */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		092D45EB52EB7E23B03086D00459EA7E /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				F36D9DB02C5FB66608953C3BFC5052A7 /* MakingWork-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		6D73FBB78CEC4943B5652CF9C114FAE3 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -253,17 +245,25 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		DEAAD519860BCE147C16F2981DFF1D60 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				63751CDE78A107A57C259CFAC77C31E5 /* MakingWork-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
 		492916BE9F3967359C4F179605C421FC /* MakingWork */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 601BAA1F0C231F6D016D1BCDD50A9A1E /* Build configuration list for PBXNativeTarget "MakingWork" */;
+			buildConfigurationList = 120BC25643B932E1DDC646A9BC43FC2D /* Build configuration list for PBXNativeTarget "MakingWork" */;
 			buildPhases = (
-				092D45EB52EB7E23B03086D00459EA7E /* Headers */,
-				926E3D65631E0A36DCF09538696FF674 /* Sources */,
-				78B00BBDD30B7AF66E700F74C90735A1 /* Frameworks */,
-				2A4B8943D6EC97555367A6F023B297AF /* Resources */,
+				DEAAD519860BCE147C16F2981DFF1D60 /* Headers */,
+				1F36E56F27127210D3A64E92E7391F05 /* Sources */,
+				2CF184A0055A9811CB7BFD36BEE530C4 /* Frameworks */,
+				816C46D1FB48D30BD63BE0F518795AD2 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -286,7 +286,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				0B187FF6EF85B771AC616B65EEF5B166 /* PBXTargetDependency */,
+				F68C4E964054B341F5AC9FE311130E35 /* PBXTargetDependency */,
 			);
 			name = "Pods-MakingWork_Example";
 			productName = Pods_MakingWork_Example;
@@ -305,7 +305,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				56DA746521315109BA1C2533E9A7B03E /* PBXTargetDependency */,
+				4D4787D5272BF5B9BD6EF417B7707F3B /* PBXTargetDependency */,
 			);
 			name = "Pods-MakingWork_Tests";
 			productName = Pods_MakingWork_Tests;
@@ -349,14 +349,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2A4B8943D6EC97555367A6F023B297AF /* Resources */ = {
+		4F73C7862BB7425AE6B5065AB900B980 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4F73C7862BB7425AE6B5065AB900B980 /* Resources */ = {
+		816C46D1FB48D30BD63BE0F518795AD2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -366,13 +366,13 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		926E3D65631E0A36DCF09538696FF674 /* Sources */ = {
+		1F36E56F27127210D3A64E92E7391F05 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CF632E982864768C0067E62F /* UIView+Extension.swift in Sources */,
-				6200D653B44321158D783429358D939F /* MakingWork-dummy.m in Sources */,
-				5AD5D4F9AF7E45F86314CEBCEC3621CF /* ReplaceMe.swift in Sources */,
+				90A81FA46E46D52D7EC354D907A30CFA /* MakingWork-dummy.m in Sources */,
+				497DE54018B5A7A96D0EE075DE65F93C /* ReplaceMe.swift in Sources */,
+				265A16D7B6C2EDD7EBE475BB4E44C8DD /* UIView+Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -395,17 +395,17 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		0B187FF6EF85B771AC616B65EEF5B166 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = MakingWork;
-			target = 492916BE9F3967359C4F179605C421FC /* MakingWork */;
-			targetProxy = 6663F3A1D4913523DE329A00FCC5A579 /* PBXContainerItemProxy */;
-		};
-		56DA746521315109BA1C2533E9A7B03E /* PBXTargetDependency */ = {
+		4D4787D5272BF5B9BD6EF417B7707F3B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-MakingWork_Example";
 			target = 66FB54B68E960DD5B5A32D836BAC883B /* Pods-MakingWork_Example */;
-			targetProxy = E9FDD6D76CC90323BBD9E5949C55A2AC /* PBXContainerItemProxy */;
+			targetProxy = 2E91F174893F723A90CC44A4B212607D /* PBXContainerItemProxy */;
+		};
+		F68C4E964054B341F5AC9FE311130E35 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = MakingWork;
+			target = 492916BE9F3967359C4F179605C421FC /* MakingWork */;
+			targetProxy = DA4238703E32C2CEFE8B9AE74F609814 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -476,6 +476,67 @@
 			};
 			name = Debug;
 		};
+		3A56C67A772303520B564CBD72312D06 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 988D45D25EE919EE43AF6C63B6294CF6 /* MakingWork.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/MakingWork/MakingWork-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/MakingWork/MakingWork-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/MakingWork/MakingWork.modulemap";
+				PRODUCT_MODULE_NAME = MakingWork;
+				PRODUCT_NAME = MakingWork;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		5FDCB92195C464C61D9ED5D70B2B682A /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E44D37FC304EC0C703798FD72C341554 /* MakingWork.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/MakingWork/MakingWork-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/MakingWork/MakingWork-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/MakingWork/MakingWork.modulemap";
+				PRODUCT_MODULE_NAME = MakingWork;
+				PRODUCT_NAME = MakingWork;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 		75D0DE98DBE368E96040FB5AFF84D87D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = B32592CA9BB38BB09528AEEF922863B0 /* Pods-MakingWork_Tests.debug.xcconfig */;
@@ -534,67 +595,6 @@
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		8362C51782A3668DBCFADF20699FF170 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 81148602CC5A19F7A9B890456B474275 /* MakingWork.debug.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/MakingWork/MakingWork-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/MakingWork/MakingWork-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/MakingWork/MakingWork.modulemap";
-				PRODUCT_MODULE_NAME = MakingWork;
-				PRODUCT_NAME = MakingWork;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		A363AE4656D7998EBF9F7760EC0E2947 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3F58E150E30C3052A8BC5E24C2E3A937 /* MakingWork.release.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/MakingWork/MakingWork-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/MakingWork/MakingWork-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/MakingWork/MakingWork.modulemap";
-				PRODUCT_MODULE_NAME = MakingWork;
-				PRODUCT_NAME = MakingWork;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -689,7 +689,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -731,6 +732,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		120BC25643B932E1DDC646A9BC43FC2D /* Build configuration list for PBXNativeTarget "MakingWork" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3A56C67A772303520B564CBD72312D06 /* Debug */,
+				5FDCB92195C464C61D9ED5D70B2B682A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -745,15 +755,6 @@
 			buildConfigurations = (
 				75D0DE98DBE368E96040FB5AFF84D87D /* Debug */,
 				7C8F55A20793949C3B9B879C07EEF74A /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		601BAA1F0C231F6D016D1BCDD50A9A1E /* Build configuration list for PBXNativeTarget "MakingWork" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				8362C51782A3668DBCFADF20699FF170 /* Debug */,
-				A363AE4656D7998EBF9F7760EC0E2947 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
