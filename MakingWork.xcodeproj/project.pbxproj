@@ -81,18 +81,9 @@
 		OBJ_10 /* Tests */ = {
 			isa = PBXGroup;
 			children = (
-				OBJ_11 /* MakingWorkTests */,
-			);
-			name = Tests;
-			sourceTree = SOURCE_ROOT;
-		};
-		OBJ_11 /* MakingWorkTests */ = {
-			isa = PBXGroup;
-			children = (
 				OBJ_12 /* MakingWorkTests.swift */,
 			);
-			name = MakingWorkTests;
-			path = Tests/MakingWorkTests;
+			name = Tests;
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_13 /* Products */ = {
@@ -104,7 +95,7 @@
 			name = Products;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		OBJ_5 /*  */ = {
+		OBJ_5 = {
 			isa = PBXGroup;
 			children = (
 				OBJ_6 /* Package.swift */,
@@ -117,25 +108,15 @@
 				OBJ_19 /* MakingWork.podspec */,
 				OBJ_20 /* README.md */,
 			);
-			name = "";
 			sourceTree = "<group>";
 		};
 		OBJ_7 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				OBJ_8 /* MakingWork */,
-			);
-			name = Sources;
-			sourceTree = SOURCE_ROOT;
-		};
-		OBJ_8 /* MakingWork */ = {
-			isa = PBXGroup;
-			children = (
 				OBJ_9 /* MakingWork.swift */,
 				CFCD266928659E4B0060DEE4 /* UIView+Extension.swift */,
 			);
-			name = MakingWork;
-			path = Sources/MakingWork;
+			name = Sources;
 			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
@@ -204,7 +185,7 @@
 			knownRegions = (
 				en,
 			);
-			mainGroup = OBJ_5 /*  */;
+			mainGroup = OBJ_5;
 			productRefGroup = OBJ_13 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
